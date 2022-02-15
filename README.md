@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KarlaRocha
+- 👀 I’m interested in a little bit of everything.
+- 🌱 I’m currently learning React Native.
